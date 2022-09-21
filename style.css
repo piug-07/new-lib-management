@@ -1,0 +1,160 @@
+ .navbar{
+    background: #81D8DB;
+    height: 5rem;
+}
+#nav {
+    color: black;
+    position: relative; 
+     left: 3rem;
+}
+.sbar{
+    width: 30%;
+    /* box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px; */
+    box-shadow: 0px 0px 0px white;
+    
+}
+svg{
+    position: relative;
+    right: 3rem;
+    top: 0.5rem;
+} 
+#bookimg{
+    position: absolute;
+    top: .8rem;
+    left: 30rem;
+}
+#head{
+    position: absolute;
+    top: 12.5rem;
+    left: 10rem;
+    font-family: open Sans;
+    font-weight: bolder;
+    /* margin: 0rem 13rem; */
+}
+
+#bookName{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: 2px solid white;
+    
+}  
+
+#author{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: 2px solid white;
+    
+}
+#submit{
+position: absolute;
+margin: 1rem 14rem;
+width: 28%;
+background: #81D8DB;
+border: 2px solid #81D8DB;
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+}
+#lib{
+    position: absolute;
+    margin: 3.4rem 14rem;
+    width: 28%;
+    border: 2px solid #81D8DB;
+    background: white;
+    color: #81D8DB;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+#bookName{
+    width: 40%;
+}
+#author{
+    width: 40%; 
+}
+#img0{
+    position: absolute;
+    right: 5rem;
+    top: 12rem;
+}
+#table{
+    display: flex;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    border-radius: 5px;
+    height: auto;
+}
+#pic{
+    height: inherit;
+    height: 20rem;
+    margin: 4rem 0rem;
+}
+/* #tableBody{
+    background: rgb(39, 231, 225);
+}
+table thead tr{
+    background: rgb(39, 231, 225);
+} */
+#h2{
+    
+    position: absolute;
+    margin: -4rem 35rem;
+}
+#i1{
+width: 26rem;
+
+top: 60rem;
+left: 0rem;
+height: inherit;
+}
+#i2{
+    width: 26rem;
+   
+    top: 60rem;
+    left: 31rem;
+    height: inherit;
+    }
+     #i3{
+    width: 26rem;
+       
+        top: 60rem;
+        left: 62rem;
+        height: inherit;
+        }
+
+        #filter{
+            background: #c0effa;
+            position: absolute;
+            left: 79rem;
+            margin: -3rem 1rem;
+            padding: 0rem 0.3rem;
+            width: 5.7rem;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+            border-radius: 3px;
+        }
+        #fil{
+           
+            position: absolute;
+            left: 82.8rem;
+            margin: -3rem 1rem;
+            padding: 0.2rem 0rem;
+
+           
+        }
+        #fil:hover{
+        cursor: pointer;
+
+        }
+#btn0{
+    position: absolute;
+    
+    width: 33.5%;
+    
+  background: white;
+  border: 2px solid white;
+  color: black;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+#drp{
+    width: 33.3%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: 2px solid #81D8DB;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
